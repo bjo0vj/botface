@@ -1,0 +1,15 @@
+{
+    "enabledThreads": {
+        "8158482067565233": {
+            "enabled": true,
+            "enabledBy": "61558747784143",
+            "enabledAt": "19:12:57 04/01/2026"
+        },
+        "9246632782020695": {
+            "enabled": true,
+            "enabledBy": "61558747784143",
+            "enabledByName": "Phát Trịnh",
+            "enabledAt": "19:36:28 04/01/2026"
+        }
+    }
+}

@@ -1,0 +1,711 @@
+{
+    "threadID": "8158482067565233",
+    "createdAt": "19:12:57 04/01/2026",
+    "createdBy": "61558747784143",
+    "members": [
+        {
+            "id": "61550286326319",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61550654232588",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61551061954653",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61552697823562",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61552804417102",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61553054147170",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61553470067055",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61554153512414",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61554300417113",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61554421374827",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61554429367922",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61554738540715",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61554740649460",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61554971425992",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61555123525541",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61555385952649",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61556211225489",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61556302295759",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61556699330762",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61556775972654",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61557633716593",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61558046044812",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61558500573601",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61558747784143",
+            "day": 4,
+            "week": 4,
+            "total": 4,
+            "lastInteract": "19:18:45 04/01/2026"
+        },
+        {
+            "id": "61563838977817",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61564768915980",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61567818020452",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61570884104358",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61572957295811",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61574411113834",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61574767517636",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61574966342439",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61576870893882",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61577048014838",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61578044669527",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61578060312288",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61578680171459",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "61581467746348",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100012644132384",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100025719044970",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100030437291899",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100030466380541",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100036873334464",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100039296107481",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100039917534607",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100040559950874",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100040927844036",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100042349177297",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100045375198955",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100046676059457",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100050705443515",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100053641624830",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100054131479948",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100055004937035",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100056891004465",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100063467772367",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100064185846707",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100065211834786",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100066912176381",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100067145741954",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100068849632539",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100070021632899",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100070344644814",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100070782612637",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100071683003064",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100071887901379",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100072913358659",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100073369388308",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100074203725284",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100075461683139",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100077076663430",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100077701553020",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100077760545626",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100079286971119",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100080642824373",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100080752459455",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100081815797624",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100082085525368",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100082783817346",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100083064472791",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100083395645689",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100083617668321",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100084558945293",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100084765878583",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100087501473743",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100089520927041",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100089812407356",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100089846470094",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100090038901991",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100090243382453",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100090693137352",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100091212489041",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100091593182687",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100092201190745",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100092315243032",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100093087111203",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100093486553702",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100093556593833",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100094040601611",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        },
+        {
+            "id": "100095351898026",
+            "day": 0,
+            "week": 0,
+            "total": 0,
+            "lastInteract": null
+        }
+    ],
+    "lastReset": {
+        "day": "2026-01-04",
+        "week": 1
+    }
+}
